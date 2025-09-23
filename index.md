@@ -7,7 +7,7 @@ title: "Julia Lamprecht — CV"
 
 # Julia Lamprecht
 
-![Portrait](assets/IMG_6106.jpg){: style="width: 220px; border-radius: 10px; float: right; margin: 0 0 1rem 1rem;"}
+![Portrait](IMG_6106.jpg){: style="width: 220px; border-radius: 10px; float: right; margin: 0 0 1rem 1rem;"}
 
 _PhD Student in Astronomy_  
 Masaryk University Brno • University of Vienna • ESO Garching  
