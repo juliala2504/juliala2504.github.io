@@ -23,7 +23,7 @@ Masaryk University Brno • University of Vienna • ESO Garching
 
 ## 🎓 Education
 - **10/2025 - now**  
-  Phd Student at Masaryk University Brno
+  Phd Student at Masaryk University Brno  
   Title: Bridging Dynamics and Stellar Populations: Unraveling Nuclear Star Cluster Formation
   
 - **08/2023 – 07/2025**  
