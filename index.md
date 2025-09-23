@@ -2,20 +2,21 @@
 
 # Julia Lamprecht
 
-![Portrait](IMG_6106.jpg){: style="width: 55px; border-radius: 10px; float: right; margin: 0 0 1rem 1rem;"}
+![Portrait](IMG_6106.jpg){: style="width: 110px; border-radius: 10px; float: right; margin: 0 0 1rem 1rem;"}
 
 _PhD Student in Astronomy_  
 Masaryk University Brno • University of Vienna • ESO Garching  
 
 German & Italian citizenship  
 
-[📄 Curriculum Vitae (PDF)](Julia_Lamprecht_CV.pdf){: .btn }  
 [🌐 GitHub Profile](https://github.com/juliala2504){: .btn }
 
 ---
 
 ## 🎓 Education
-- **08/2023 – now**  
+- **10/2025 - now**
+  Phd Student at Masaryk University Brno: Brid
+- **08/2023 – 07/2025**  
   MSc Astronomy — University of Vienna, Department of Astrophysics  
   Focus: *Evolution and formation of galaxies, Galactic dynamics, Dynamical modeling of galaxies, SMBH mass determination*  
   Thesis: *Orbital decomposition of the nuclear star cluster in FCC 047*  
@@ -23,7 +24,6 @@ German & Italian citizenship
 - **10/2019 – 08/2023**  
   BSc Astronomy — University of Vienna, Department of Astrophysics  
   Thesis: *Constraining the black hole mass of PGC1021091 with DYNAMITE*  
-  Topic: Dynamical modeling of a galaxy  
 
 - **10/2014 – 04/2018**  
   BSc Economics — Ludwig-Maximilians-Universität Munich  
@@ -40,13 +40,13 @@ German & Italian citizenship
 
 ---
 
-## 🛰️ Projects, Visits & Talks
-- **European Southern Observatory (ESO) Garching**  
-  - 10/2024 - 11/2024: Research visit  
-  - 01/2025 - 02/2025: Science internship program
-
+## 🛰️ Visits & Talks
 - **Bridging Scales Conference**, Matera, Italy (2025)  
   - Flashtalk on *orbital decomposition of an unusually large nuclear star cluster*  
+
+- **European Southern Observatory (ESO)**, Garching, Germany (2024, 2025)  
+  - 10/2024 - 11/2024: Research visit  
+  - 01/2025 - 02/2025: Science internship program
 
 - **WST Symposium**, Vienna (2023)  
   - Student support in Local Organizing Committee  
@@ -54,7 +54,7 @@ German & Italian citizenship
 ---
 
 ## 💼 Work Experience
-- **02/2023 – 06/2025 **  
+- **02/2023 – 06/2025**  
   Production Assistant, NGO Light for the World Vienna  
   Focus: Direct Mailings and Committed Givers  
 
@@ -108,7 +108,7 @@ German & Italian citizenship
 ---
 
 ## 🌱 Interests
-The climate and biodiversity crisis • (Thru-)hiking • Running • Climbing •  
+The climate and biodiversity crisis • (Thru-)hiking • Yoga • Running • Climbing •  
 Spending time outdoors, especially in the mountains • Foodsaving & -sharing  
 
 ---
