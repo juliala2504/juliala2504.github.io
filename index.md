@@ -1,8 +1,3 @@
----
-layout: default
-title: "Julia Lamprecht — CV"
----
-
 <link rel="stylesheet" href="styles.css">
 
 # Julia Lamprecht
@@ -45,7 +40,7 @@ German & Italian citizenship
 
 ---
 
-## 🛰️ Projects, Visits & Schools
+## 🛰️ Projects, Visits & Talks
 - **European Southern Observatory (ESO) Garching**  
   - 10/2024 - 11/2024: Research visit  
   - 01/2025 - 02/2025: Science internship program
