@@ -54,9 +54,9 @@ Masaryk University Brno • University of Vienna • ESO Garching
 - **Bridging Scales Conference**, Matera, Italy (2025)  
   - Flashtalk on *orbital decomposition of an unusually large nuclear star cluster*  
 
-- **European Southern Observatory (ESO)**, Garching, Germany (2024, 2025)  
-  - 10/2024 - 11/2024: Research visit  
+- **European Southern Observatory (ESO)**, Garching, Germany (2025, 2024)
   - 01/2025 - 02/2025: Science internship program
+  - 10/2024 - 11/2024: Research visit  
 
 - **WST Symposium**, Vienna (2023)  
   - Student support in Local Organizing Committee  
