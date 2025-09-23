@@ -129,6 +129,5 @@ Spending time outdoors, especially in the mountains • Foodsaving & -sharing
 
 <div class="fineprint">
 Last updated: {{ site.time | date: "%d %b %Y" }} ·
-<a href="Julia_Lamprecht_CV.pdf">PDF</a> ·
 Made with GitHub Pages
 </div>
