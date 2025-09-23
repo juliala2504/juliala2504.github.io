@@ -22,8 +22,10 @@ Masaryk University Brno • University of Vienna • ESO Garching
 ---
 
 ## 🎓 Education
-- **10/2025 - now**
-  Phd Student at Masaryk University Brno: Bridging Dynamics and Stellar Populations: Unraveling Nuclear Star Cluster Formation
+- **10/2025 - now**  
+  Phd Student at Masaryk University Brno
+  Title: Bridging Dynamics and Stellar Populations: Unraveling Nuclear Star Cluster Formation
+  
 - **08/2023 – 07/2025**  
   MSc Astronomy — University of Vienna, Department of Astrophysics  
   Focus: *Evolution and formation of galaxies, Galactic dynamics, Dynamical modeling of galaxies, SMBH mass determination*  
@@ -39,7 +41,7 @@ Masaryk University Brno • University of Vienna • ESO Garching
 ---
 
 ## 🔭 Research Focus
-- Dynamics of early-type galaxies  
+- Dynamics of early-type galaxies
 - Schwarzschild dynamical modelling (DYNAMITE)  
 - Stellar kinematics (Bayes-LOSVD, pPXF)  
 - Measuring the mass of supermassive black holes (SMBHs)  
