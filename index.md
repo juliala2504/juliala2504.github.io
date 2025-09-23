@@ -4,7 +4,7 @@
 
 German & Italian citizenship 
 
-![Portrait](IMG_6106.jpg){: style="width: 110px; border-radius: 10px; float: right; margin: 0 0 1rem 1rem;"}
+![Portrait](IMG_6106.jpg){: style="width: 165px; border-radius: 10px; float: right; margin: 0 0 1rem 1rem;"}
 
 _PhD Student in Astrophysics: Bridging Dynamics and Stellar Populations: Unraveling Nuclear Star Cluster Formation_ 
 
