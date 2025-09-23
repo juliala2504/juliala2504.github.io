@@ -2,12 +2,13 @@
 
 # Julia Katharina Lamprecht
 
+German & Italian citizenship 
+
 ![Portrait](IMG_6106.jpg){: style="width: 110px; border-radius: 10px; float: right; margin: 0 0 1rem 1rem;"}
 
-_PhD Student in Astronomy_  
-Masaryk University Brno • University of Vienna • ESO Garching  
+_PhD Student in Astrophysics: Bridging Dynamics and Stellar Populations: Unraveling Nuclear Star Cluster Formation_ 
 
-German & Italian citizenship  
+Masaryk University Brno • University of Vienna • ESO Garching   
 
 [🌐 GitHub Profile](https://github.com/juliala2504){: .btn }
 
