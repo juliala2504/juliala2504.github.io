@@ -7,14 +7,14 @@ title: "Julia Lamprecht — CV"
 
 # Julia Lamprecht
 
-![Portrait](IMG_6106.jpg){: style="width: 220px; border-radius: 10px; float: right; margin: 0 0 1rem 1rem;"}
+![Portrait](IMG_6106.jpg){: style="width: 55px; border-radius: 10px; float: right; margin: 0 0 1rem 1rem;"}
 
 _PhD Student in Astronomy_  
 Masaryk University Brno • University of Vienna • ESO Garching  
 
 German & Italian citizenship  
 
-[📄 Curriculum Vitae (PDF)](assets/Julia_Lamprecht_CV.pdf){: .btn }  
+[📄 Curriculum Vitae (PDF)](Julia_Lamprecht_CV.pdf){: .btn }  
 [🌐 GitHub Profile](https://github.com/juliala2504){: .btn }
 
 ---
@@ -36,9 +36,9 @@ German & Italian citizenship
 ---
 
 ## 🔭 Research Focus
+- Dynamics of early-type galaxies  
 - Schwarzschild dynamical modelling (DYNAMITE)  
 - Stellar kinematics (Bayes-LOSVD, pPXF)  
-- Dynamics of early-type galaxies  
 - Measuring the mass of supermassive black holes (SMBHs)  
 - Nuclear star clusters (NSCs) and their formation  
 - Spectroscopy (MUSE, SINFONI, NIFS), HST photometry  
@@ -46,12 +46,12 @@ German & Italian citizenship
 ---
 
 ## 🛰️ Projects, Visits & Schools
-- **ESO Garching**  
-  - Oct–Nov 2024 — Research visit  
-  - Jan–Feb 2025 — Science internship  
+- **European Southern Observatory (ESO) Garching**  
+  - 10/2024 - 11/2024: Research visit  
+  - 01/2025 - 02/2025: Science internship program
 
 - **Bridging Scales Conference**, Matera, Italy (2025)  
-  - Gave a talk on *orbital decomposition of an unusually large nuclear star cluster*  
+  - Flashtalk on *orbital decomposition of an unusually large nuclear star cluster*  
 
 - **WST Symposium**, Vienna (2023)  
   - Student support in Local Organizing Committee  
@@ -59,7 +59,7 @@ German & Italian citizenship
 ---
 
 ## 💼 Work Experience
-- **02/2023 – now**  
+- **02/2023 – 06/2025 **  
   Production Assistant, NGO Light for the World Vienna  
   Focus: Direct Mailings and Committed Givers  
 
@@ -108,19 +108,13 @@ German & Italian citizenship
 ## 🗣️ Languages
 - German — Mother tongue  
 - English — Proficient (C1)  
-- French — Basic communication skills (A2)  
-
----
-
-## 💻 Skills
-**Python** (NumPy, SciPy, matplotlib, CAMB, healpy) • **Data** (TOPCAT, DS9) •  
-**Modelling** (orbit libraries, SMBH scaling) • **Git/GitHub** • **LaTeX**  
+- French — Basic (A2)  
 
 ---
 
 ## 🌱 Interests
 The climate and biodiversity crisis • (Thru-)hiking • Running • Climbing •  
-Spending time outdoors, especially in the mountains • Vegetarian • Foodsaving & -sharing  
+Spending time outdoors, especially in the mountains • Foodsaving & -sharing  
 
 ---
 
@@ -132,6 +126,6 @@ Spending time outdoors, especially in the mountains • Vegetarian • Foodsavin
 
 <div class="fineprint">
 Last updated: {{ site.time | date: "%d %b %Y" }} ·
-<a href="assets/Julia_Lamprecht_CV.pdf">PDF</a> ·
+<a href="Julia_Lamprecht_CV.pdf">PDF</a> ·
 Made with GitHub Pages
 </div>
