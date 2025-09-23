@@ -1,3 +1,10 @@
+<style>
+/* hide the GitHub hero button */
+.hero a[href*="github.com"],
+a.btn[href*="github.com"] { display: none !important; }
+</style>
+
+
 <link rel="stylesheet" href="styles.css">
 
 # Julia Katharina Lamprecht
