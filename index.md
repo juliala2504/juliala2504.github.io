@@ -13,7 +13,7 @@ German & Italian citizenship
 
 ![Portrait](IMG_6106.jpg){: style="width: 180px; border-radius: 10px; float: right; margin: 0 0 1rem 1rem;"}
 
-_PhD Student in Astrophysics: Bridging Dynamics and Stellar Populations: Unraveling Nuclear Star Cluster Formation_ 
+PhD Student in Astrophysics: _Bridging Dynamics and Stellar Populations: Unraveling Nuclear Star Cluster Formation_ 
 
 Masaryk University Brno • University of Vienna • ESO Garching   
 
