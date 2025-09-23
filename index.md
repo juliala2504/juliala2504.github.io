@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="styles.css">
 
-# Julia Lamprecht
+# Julia Katharina Lamprecht
 
 ![Portrait](IMG_6106.jpg){: style="width: 110px; border-radius: 10px; float: right; margin: 0 0 1rem 1rem;"}
 
@@ -15,7 +15,7 @@ German & Italian citizenship
 
 ## 🎓 Education
 - **10/2025 - now**
-  Phd Student at Masaryk University Brno: Brid
+  Phd Student at Masaryk University Brno: Bridging Dynamics and Stellar Populations: Unraveling Nuclear Star Cluster Formation
 - **08/2023 – 07/2025**  
   MSc Astronomy — University of Vienna, Department of Astrophysics  
   Focus: *Evolution and formation of galaxies, Galactic dynamics, Dynamical modeling of galaxies, SMBH mass determination*  
