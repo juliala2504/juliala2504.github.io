@@ -1,3 +1,47 @@
+/* === custom hero style: einfarbig & schlanker === */
+/* Ersetze #1f8f4c mit dem gewünschten Grünton aus deinem Foto */
+.hero {
+  background-image: none !important; /* entfernt Theme-Gradient */
+  background-color: #1f8f4c !important;
+  padding: 50px 0 !important;        /* verkleinert Höhe - veränderbar */
+  min-height: 160px !important;      /* sorgt für eine kompakte Kopfzeile */
+  display: flex;
+  align-items: center;               /* zentriert vertikal */
+  justify-content: center;
+  text-align: center;
+}
+
+/* Titelgröße anpassen (bei Bedarf kleiner machen) */
+.hero .page-title,
+.hero h1 {
+  color: #ffffff !important;
+  font-size: 48px !important;       /* kleiner: z.B. 40px */
+  line-height: 1.05 !important;
+  margin: 0 0 6px !important;
+}
+
+/* Untertitel / Beschreibung */
+.hero .page-subtitle,
+.hero .lead {
+  color: rgba(255,255,255,0.95) !important;
+  font-size: 16px !important;
+  margin: 0 !important;
+}
+
+/* Responsive: noch kompakter auf kleinen Bildschirmen */
+@media (max-width: 768px) {
+  .hero {
+    padding: 28px 0 !important;
+    min-height: 120px !important;
+  }
+  .hero .page-title,
+  .hero h1 {
+    font-size: 32px !important;
+  }
+}
+
+
+
 /* Custom styling for CV website */
 
 body {
