@@ -3,7 +3,7 @@ layout: default
 title: "Julia Lamprecht — CV"
 ---
 
-<link rel="stylesheet" href="assets/styles.css">
+<link rel="stylesheet" href="styles.css">
 
 # Julia Lamprecht
 
