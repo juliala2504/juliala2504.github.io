@@ -51,7 +51,10 @@ Masaryk University Brno • University of Vienna • ESO Garching
 ---
 
 ## 🛰️ Visits & Talks
-- **Bridging Scales Conference**, Matera, Italy (2025)  
+- **Lorentz Center workshop: Galactic Centers as tracers of Galaxy Evolution**, Leiden, Netherlands (October 2025)  
+  - Talk *orbital decomposition of the nuclear regions in the early-type galaxy FCC047*  
+
+- **Bridging Scales Conference**, Matera, Italy (September 2025)  
   - Flashtalk on *orbital decomposition of an unusually large nuclear star cluster*  
 
 - **European Southern Observatory (ESO)**, Garching, Germany (2025, 2024)
@@ -90,7 +93,7 @@ Masaryk University Brno • University of Vienna • ESO Garching
 ---
 
 ## 🌟 Extracurricular Activities
-- **03/2023 – now**  
+- **03/2023 – 06/2025**  
   Stellar Dynamics Research Group, University of Vienna  
   Group leader: Prof. Dr. Glen van de Ven  
 
