@@ -52,10 +52,10 @@ Masaryk University Brno • University of Vienna • ESO Garching
 
 ## 🛰️ Visits & Talks
 - **Lorentz Center workshop: Galactic Centers as tracers of Galaxy Evolution**, Leiden, Netherlands (October 2025)  
-  - Talk *orbital decomposition of the nuclear regions in the early-type galaxy FCC047*  
+  - Talk on *An orbital decomposition of the nuclear regions in the early-type galaxy FCC047*  
 
 - **Bridging Scales Conference**, Matera, Italy (September 2025)  
-  - Flashtalk on *orbital decomposition of an unusually large nuclear star cluster*  
+  - Flashtalk on *An orbital decomposition of an unusually large nuclear star cluster*  
 
 - **European Southern Observatory (ESO)**, Garching, Germany (2025, 2024)
   - 01/2025 - 02/2025: Science internship program
