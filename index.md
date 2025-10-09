@@ -15,7 +15,7 @@ German & Italian citizenship
 
 PhD Student in Astrophysics: _Bridging Dynamics and Stellar Populations: Unraveling Nuclear Star Cluster Formation_ 
 
-Masaryk University Brno 
+@ Masaryk University, Brno, Czech Republic
 
 [🌐 GitHub Profile](https://github.com/juliala2504){: .btn }
 
