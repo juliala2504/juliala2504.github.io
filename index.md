@@ -65,7 +65,7 @@ PhD Student in Astrophysics: _Bridging Dynamics and Stellar Populations: Unravel
   - 10/2024 - 11/2024: Research visit
 
 - **Stellar Dynamics Research Group**, Vienna, Austria (May 2023)  
-  - Talk on *Measurng the black hole mass of PGC1021091*  
+  - Talk on *Measuring the black hole mass of PGC1021091*  
 
 - **WST Symposium**, Vienna (May 2023)  
   - Student support in Local Organizing Committee  
