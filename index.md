@@ -33,8 +33,11 @@ PhD Student in Astrophysics: _Bridging Dynamics and Stellar Populations: Unravel
 
 - **10/2019 – 08/2023**  
   BSc Astronomy — University of Vienna, Department of Astrophysics  
-  Thesis: *Constraining the black hole mass of PGC1021091 with DYNAMITE*  
-
+  Thesis: *Constraining the black hole mass of PGC1021091 with DYNAMITE*
+  
+- **08/2016 – 01/2017**  
+  BSc Economics — Université Toulouse 1 Capitole, School of Economics
+  
 - **10/2014 – 04/2018**  
   BSc Economics — Ludwig-Maximilians-Universität Munich  
 
@@ -59,9 +62,12 @@ PhD Student in Astrophysics: _Bridging Dynamics and Stellar Populations: Unravel
 
 - **European Southern Observatory (ESO)**, Garching, Germany (2025, 2024)
   - 01/2025 - 02/2025: Science internship program
-  - 10/2024 - 11/2024: Research visit  
+  - 10/2024 - 11/2024: Research visit
 
-- **WST Symposium**, Vienna (2023)  
+- **Stellar Dynamics Research Group**, Vienna, Austria (May 2023)  
+  - Talk on *Measurng the black hole mass of PGC1021091*  
+
+- **WST Symposium**, Vienna (May 2023)  
   - Student support in Local Organizing Committee  
 
 ---
@@ -92,24 +98,24 @@ PhD Student in Astrophysics: _Bridging Dynamics and Stellar Populations: Unravel
 
 ---
 
-## 🌟 Extracurricular Activities
+## 🌟 Extracurricular Activities and Stipends
+- **11/2025**  
+  Performance Scholarship (University Vienna) awarded for outstanding academic achievements
+
 - **03/2023 – 06/2025**  
   Stellar Dynamics Research Group, University of Vienna  
-  Group leader: Prof. Dr. Glen van de Ven  
+  Group leader: Prof. Dr. Glen van de Ven
 
-- **05/2023**  
+- **10/2024 – 11/2024**  
+  KWA (Short-term grant abroad) for academic work abroad, working on the Master's thesis at ESO
+
+- **05/2023**
   WST Symposium, Vienna  
   Student support at the LOC  
 
 - **10/2021 – 02/2022**  
   Nightingale Mentoring program  
   Supporting children with migration background from socially disadvantaged families  
-
----
-
-## 🌍 Time Abroad
-- **08/2016 – 01/2017** — Université Toulouse 1 Capitole, School of Economics  
-- **01/2012 – 04/2012** — Paris, Language School „Education First“  
 
 ---
 
