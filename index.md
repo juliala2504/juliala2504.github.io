@@ -6,6 +6,12 @@ a.btn[href*="github.com"] { display: none !important; }
 
 <link rel="stylesheet" href="styles.css">
 
+<nav class="cv-tabs" aria-label="Sections">
+  <a href="#cv">CV</a>
+  <a href="#publications">Publications</a>
+  <a href="#talks">Talks</a>
+</nav>
+
 <div class="cv">
   <aside class="cv-sidebar">
     <div class="cv-photo">
@@ -59,7 +65,7 @@ a.btn[href*="github.com"] { display: none !important; }
     </div>
   </aside>
 
-  <main class="cv-main">
+  <main class="cv-main" id="cv">
     <header class="cv-header">
       <h1>Julia Katharina Lamprecht</h1>
       <p class="cv-title">PhD Student in Astrophysics</p>
@@ -120,8 +126,8 @@ a.btn[href*="github.com"] { display: none !important; }
       </ul>
     </section>
 
-    <section>
-      <h2>Visits and Talks</h2>
+    <section id="talks">
+      <h2>Talks</h2>
       <div class="cv-item">
         <div class="cv-item-heading">
           <span>Traces of Galaxy Formation Group, La Laguna, Tenerife</span>
@@ -169,6 +175,11 @@ a.btn[href*="github.com"] { display: none !important; }
         </div>
         <p>Student support in Local Organizing Committee.</p>
       </div>
+    </section>
+
+    <section id="publications">
+      <h2>Publications</h2>
+      <p>Selected publications and updated list available on ORCID: <a href="https://orcid.org/0009-0000-2790-9781">0009-0000-2790-9781</a>.</p>
     </section>
 
     <section>

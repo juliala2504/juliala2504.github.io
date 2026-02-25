@@ -1,16 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Source+Sans+3:wght@400;500;600&display=swap");
 
 :root {
-  --ink: #1d1f24;
-  --muted: #5b6068;
-  --light: #f2f3f5;
-  --paper: #f7f7f7;
-  --line: #d3d6db;
-  --sidebar: #3f4756;
-  --sidebar-ink: #f2f4f7;
-  --sidebar-muted: #c6cbd4;
-  --accent: #6b7280;
-  --shadow: rgba(0, 0, 0, 0.08);
+  --ink: #1f2228;
+  --muted: #6a6f78;
+  --light: #f1f2f4;
+  --paper: #f5f6f7;
+  --line: #cfd3d8;
+  --sidebar: #5a606c;
+  --sidebar-ink: #f5f6f8;
+  --sidebar-muted: #d1d5db;
+  --accent: #1f2228;
+  --shadow: rgba(0, 0, 0, 0.06);
 }
 
 body {
@@ -18,6 +18,7 @@ body {
   line-height: 1.65;
   color: var(--ink);
   background: var(--light);
+  font-weight: 400;
 }
 
 .page-header {
@@ -34,13 +35,37 @@ img {
   height: auto;
 }
 
+.cv-tabs {
+  max-width: 1040px;
+  margin: 24px auto 0;
+  padding: 0 12px;
+  display: flex;
+  gap: 12px;
+}
+
+.cv-tabs a {
+  font-family: "Montserrat", "Source Sans 3", Arial, sans-serif;
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  padding-bottom: 6px;
+}
+
+.cv-tabs a:hover {
+  border-bottom-color: var(--ink);
+}
+
 .cv {
   max-width: 1040px;
-  margin: 40px auto;
+  margin: 18px auto 40px;
   background: var(--paper);
   display: grid;
   grid-template-columns: 320px 1fr;
-  box-shadow: 0 20px 50px var(--shadow);
+  border: 1px solid var(--line);
+  box-shadow: 0 10px 25px var(--shadow);
 }
 
 .cv-sidebar {
@@ -60,7 +85,7 @@ img {
   height: 150px;
   border-radius: 50%;
   object-fit: cover;
-  border: 4px solid rgba(255, 255, 255, 0.15);
+  border: 4px solid rgba(255, 255, 255, 0.2);
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
@@ -78,12 +103,12 @@ img {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background: rgba(255, 255, 255, 0.12);
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: transparent;
+  border: 1px solid var(--line);
 }
 
 .icon-button:hover {
-  background: rgba(255, 255, 255, 0.2);
+  border-color: var(--ink);
 }
 
 .icon-github,
@@ -141,12 +166,13 @@ img {
 
 .cv-sidebar-section h2 {
   font-family: "Montserrat", "Source Sans 3", Arial, sans-serif;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   margin-bottom: 12px;
   position: relative;
   color: var(--sidebar-ink);
+  font-weight: 600;
 }
 
 .cv-sidebar-section h2::after {
@@ -154,14 +180,15 @@ img {
   display: block;
   height: 2px;
   width: 48px;
-  background: rgba(255, 255, 255, 0.4);
+  background: var(--line);
   margin-top: 8px;
 }
 
 .cv-sidebar-section p,
 .cv-sidebar-section li {
   color: var(--sidebar-muted);
-  font-size: 0.95rem;
+  font-size: 0.92rem;
+  font-weight: 400;
 }
 
 .contact-list,
@@ -181,7 +208,7 @@ img {
 
 .contact-list span {
   color: var(--sidebar-ink);
-  font-weight: 600;
+  font-weight: 500;
   font-size: 0.85rem;
   text-transform: uppercase;
   letter-spacing: 0.04em;
@@ -207,12 +234,14 @@ img {
   letter-spacing: 0.08em;
   text-transform: uppercase;
   margin: 0;
+  font-weight: 600;
 }
 
 .cv-title {
   margin: 8px 0 22px;
   color: var(--muted);
   font-size: 1rem;
+  font-weight: 400;
 }
 
 .cv-header::after {
@@ -220,7 +249,7 @@ img {
   display: block;
   width: 60px;
   height: 3px;
-  background: var(--accent);
+  background: var(--ink);
   margin-top: 6px;
 }
 
@@ -236,6 +265,7 @@ img {
   margin-bottom: 16px;
   position: relative;
   color: var(--ink);
+  font-weight: 600;
 }
 
 .cv-main h2::after {
@@ -254,7 +284,7 @@ img {
   display: flex;
   justify-content: space-between;
   gap: 12px;
-  font-weight: 600;
+  font-weight: 500;
   color: var(--ink);
   flex-wrap: wrap;
 }
@@ -262,6 +292,7 @@ img {
 .cv-item p {
   margin: 6px 0 0;
   color: var(--muted);
+  font-weight: 400;
 }
 
 .compact-list li {
