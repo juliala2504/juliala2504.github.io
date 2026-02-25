@@ -54,6 +54,9 @@ PhD Student in Astrophysics: _Bridging Dynamics and Stellar Populations: Unravel
 ---
 
 ## 🛰️ Visits & Talks
+- ** Traces of Galaxy Formation Group**, La Laguna, Tenerife (November 2025)
+  - Talk on *Testing Bayes-LOSVD on nucleated early-type galaxies in the Fornax cluster*
+    
 - **Lorentz Center workshop: Galactic Centers as tracers of Galaxy Evolution**, Leiden, Netherlands (October 2025)  
   - Talk on *An orbital decomposition of the nuclear regions in the early-type galaxy FCC047*  
 
