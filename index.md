@@ -37,25 +37,24 @@ a.btn[href*="github.com"] { display: none !important; }
 
     <div class="cv-sidebar-section">
       <h2>Profile</h2>
-      <p>PhD Student in Astrophysics at Masaryk University, Brno.</p>
-      <p>Research: Bridging Dynamics and Stellar Populations: Unraveling Nuclear Star Cluster Formation.</p>
-      <p>German and Italian citizenship.</p>
+      <p>PhD Student in Astrophysics at Masaryk University, Brno </p>
+      <p>Research: Bridging Dynamics and Stellar Populations: Unraveling Nuclear Star Cluster Formation </p>
+      <p>German and Italian citizenship </p>
     </div>
 
     <div class="cv-sidebar-section">
       <h2>Languages</h2>
-      <ul class="compact-list">
-        <li>German - Mother tongue</li>
-        <li>English - Proficient (C1)</li>
-        <li>French - Basic (A2)</li>
-        <li>Italian - Basic (A2)</li>
-        <li>Spanish - Basic (A2)</li>
-      </ul>
+        <p>German - Mother tongue</p>
+        <p>English - Proficient (C1)</p>
+        <p>French, Spanish, Italien Basic (A2)</p>
     </div>
 
     <div class="cv-sidebar-section">
       <h2>Interests</h2>
-      <p>The climate and biodiversity crisis, (thru-)hiking, yoga, running, climbing, and time outdoors in the mountains. Foodsaving and -sharing.</p>
+        <p>The climate and biodiversity crisis </p>
+        <p>(Thru-) Hiking, Running, Climbing </p>
+        <p>Enjoying the beauty of nature </p>
+        <p>Foodsaving and -sharing </p>
     </div>
   </aside>
 
