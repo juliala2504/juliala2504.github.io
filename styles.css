@@ -12,6 +12,10 @@
   --shadow: rgba(0, 0, 0, 0.08);
 }
 
+* {
+  font-family: "Montserrat", Arial, sans-serif;
+}
+
 body {
   font-family: "Montserrat", Arial, sans-serif;
 }
