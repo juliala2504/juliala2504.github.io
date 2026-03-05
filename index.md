@@ -61,15 +61,15 @@ a.btn[href*="github.com"] { display: none !important; }
       <h2>Education</h2>
       <div class="cv-item">
         <div class="cv-item-heading">
-          <span>Masaryk University, Brno</span>
-          <span>10/2025 - now</span>
+          <span>Department of Astrophysics and theoretical Physics, Masaryk University, Brno</span>
+          <span>07/2025 - now</span>
         </div>
         <p>PhD Student: Bridging Dynamics and Stellar Populations: Unraveling Nuclear Star Cluster Formation.</p>
       </div>
 
       <div class="cv-item">
         <div class="cv-item-heading">
-          <span>University of Vienna, Department of Astrophysics</span>
+          <span>Department of Astrophysics, University of Vienna</span>
           <span> 2019 - 2025</span>
         </div>
         <p>BSc and MSc degrees. Focus: Evolution and formation of galaxies, Galactic dynamics, Dynamical modelling of galaxies, SMBH mass determination. Masterthesis: Orbital decomposition of the nuclear star cluster in FCC 047. Bachelorthesis: Constraining the black hole mass of PGC1021091 with DYNAMITE. </p>
@@ -78,7 +78,7 @@ a.btn[href*="github.com"] { display: none !important; }
 
       <div class="cv-item">
         <div class="cv-item-heading">
-          <span>Ludwig-Maximilians-Universitat Munich </span>
+          <span>Ludwig-Maximilians-University Munich </span>
           <span> 2014 - 2018</span>
         </div>
         <p>BSc Economics.</p>
