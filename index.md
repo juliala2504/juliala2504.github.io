@@ -37,8 +37,8 @@ a.btn[href*="github.com"] { display: none !important; }
 
     <div class="cv-sidebar-section">
       <h2>Profile</h2>
-      <p>PhD Student in Astrophysics at Masaryk University, Brno </p>
-      <p>Research: Bridging Dynamics and Stellar Populations: Unraveling Nuclear Star Cluster Formation </p>
+      <p>PhD student in Astrophysics at Masaryk University, Brno</p>
+      <p>Research: Bridging dynamics and stellar populations: unravelling nuclear star cluster formation </p>
       <p>German and Italian citizenship </p>
     </div>
 
@@ -46,7 +46,7 @@ a.btn[href*="github.com"] { display: none !important; }
       <h2>Languages</h2>
         <p>German - Mother tongue</p>
         <p>English - Proficient (C1)</p>
-        <p>French, Spanish, Italien - Basic (A2)</p>
+        <p>French, Spanish, Italian - Basic (A2)</p>
     </div>
 
   </aside>
@@ -60,13 +60,13 @@ a.btn[href*="github.com"] { display: none !important; }
 
 
     <section>
-      <h2>I care about ... </h2>
+      <h2>Research interests </h2>
       <ul class="compact-list">
         <li>* The dynamics of early-type galaxies in order to constrain their formation and evolutionary history. Of particular interest are nucleated galaxies, as nuclear star clusters preserve information about their formation pathways imprinted into their stellar populations and dynamical structure </li>
         <li>* Using Schwarzschild orbit-superposition modelling (DYNAMITE), I build dynamical models of galaxies by optimizing large orbit libraries to reproduce integral-field spectroscopic and imaging observations (MUSE, SINFONI, NIFS, HST) </li>
         <li>* Extract stellar kinematics from integrated galaxy spectra using the Bayes-LOSVD framework, modelling the broadening and shifts of absorption-line features through Bayesian inference and Markov Chain Monte Carlo (MCMC) sampling within a probabilistic machine learning framework </li>
-        <li>* Black hole demographics: Measuring the mass of BHs (SMBHs, IMBHs) to investigate co-existence and co-evolution of the central black hole and it's host galaxy </li>
-        <li>*Data Science, scientific computing und statistical modeling</li>
+        <li>* Black hole demographics: Measuring the mass of BHs (SMBHs, IMBHs) to investigate co-existence and co-evolution of the central black hole and its host galaxy </li>
+        <li>*Data Science, scientific computing und statistical modelling</li>
       </ul>
     </section>
 
@@ -119,10 +119,10 @@ a.btn[href*="github.com"] { display: none !important; }
       <h2>Education</h2>
       <div class="cv-item">
         <div class="cv-item-heading">
-          <span>Department of Astrophysics and theoretical Physics, Masaryk University, Brno</span>
+          <span>Department of Astrophysics and Theoretical Physics, Masaryk University, Brno</span>
           <span>07/2025 - now</span>
         </div>
-        <p>PhD Student: Bridging Dynamics and Stellar Populations: Unraveling Nuclear Star Cluster Formation.</p>
+        <p>PhD Student: Bridging Dynamics and Stellar Populations: Unravelling Nuclear Star Cluster Formation.</p>
       </div>
 
       <div class="cv-item">
@@ -131,8 +131,8 @@ a.btn[href*="github.com"] { display: none !important; }
           <span> 2019 - 2025</span>
         </div>
         <p>BSc and MSc degrees. Focus: Evolution and formation of galaxies, Galactic dynamics, Dynamical modelling of galaxies, SMBH mass determination. 
-        Masterthesis: Orbital decomposition of the nuclear star cluster in FCC 047. 
-        Bachelorthesis: Constraining the black hole mass of PGC1021091 with DYNAMITE. </p>
+        Master's thesis: Orbital decomposition of the nuclear star cluster in FCC 047. 
+        Bachelor's thesis: Constraining the black hole mass of PGC1021091 with DYNAMITE. </p>
       </div>
 
 
@@ -181,7 +181,7 @@ a.btn[href*="github.com"] { display: none !important; }
 
       <div class="cv-item">
         <div class="cv-item-heading">
-          <span>Nightingale Mentoring program</span>
+          <span>Nightingale Mentoring programme</span>
           <span>10/2021 - 02/2022</span>
         </div>
         <p>Supporting children with migration background from socially disadvantaged families.</p>
