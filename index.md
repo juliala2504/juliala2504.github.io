@@ -66,7 +66,7 @@ a.btn[href*="github.com"] { display: none !important; }
         <li>* Using Schwarzschild orbit-superposition modelling (DYNAMITE), I build dynamical models of galaxies by optimizing large orbit libraries to reproduce integral-field spectroscopic and imaging observations (MUSE, SINFONI, NIFS, HST) </li>
         <li>* Extract stellar kinematics from integrated galaxy spectra using the Bayes-LOSVD framework, modelling the broadening and shifts of absorption-line features through Bayesian inference and Markov Chain Monte Carlo (MCMC) sampling within a probabilistic machine learning framework </li>
         <li>* Black hole demographics: Measuring the mass of BHs (SMBHs, IMBHs) to investigate co-existence and co-evolution of the central black hole and its host galaxy </li>
-        <li>*Data Science, scientific computing und statistical modelling</li>
+        <li>* Data Science, scientific computing und statistical modelling</li>
       </ul>
     </section>
 
