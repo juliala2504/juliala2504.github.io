@@ -77,7 +77,7 @@ a.btn[href*="github.com"] { display: none !important; }
           <span>Traces of Galaxy Formation Group, La Laguna, Tenerife</span>
           <span>11/2025</span>
         </div>
-        <p>Talk on Testing Bayes-LOSVD on nucleated early-type galaxies in the Fornax cluster.</p>
+        <p>Talk on "Testing Bayes-LOSVD on nucleated early-type galaxies in the Fornax cluster."</p>
       </div>
 
       <div class="cv-item">
@@ -85,7 +85,7 @@ a.btn[href*="github.com"] { display: none !important; }
           <span>Lorentz Center workshop: Galactic Centers as tracers of Galaxy Evolution, Leiden</span>
           <span>10/2025</span>
         </div>
-        <p>Talk on An orbital decomposition of the nuclear regions in the early-type galaxy FCC047.</p>
+        <p>Talk on "An orbital decomposition of the nuclear regions in the early-type galaxy FCC047".</p>
       </div>
 
       <div class="cv-item">
@@ -93,7 +93,7 @@ a.btn[href*="github.com"] { display: none !important; }
           <span>Bridging Scales Conference, Matera</span>
           <span>09/2025</span>
         </div>
-        <p>Flashtalk on An orbital decomposition of an unusually large nuclear star cluster.</p>
+        <p>Flashtalk on "An orbital decomposition of an unusually large nuclear star cluster."</p>
       </div>
 
       <div class="cv-item">
@@ -110,7 +110,7 @@ a.btn[href*="github.com"] { display: none !important; }
           <span>Stellar Dynamics Research Group, Vienna</span>
           <span>05/2023</span>
         </div>
-        <p>Talk on Measuring the black hole mass of PGC1021091.</p>
+        <p>Talk on "Measuring the black hole mass of PGC1021091."</p>
       </div>
 
     </section>
