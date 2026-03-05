@@ -1,5 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Source+Sans+3:wght@400;500;600&display=swap");
-
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
 :root {
   --ink: #1d1f24;
   --muted: #5b6068;
@@ -14,10 +13,7 @@
 }
 
 body {
-  font-family: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
-  line-height: 1.65;
-  color: var(--ink);
-  background: var(--light);
+  font-family: "Montserrat", Arial, sans-serif;
 }
 
 .page-header {
@@ -100,7 +96,7 @@ img {
   content: "gh";
   font-weight: 700;
   font-size: 11px;
-  font-family: "Montserrat", "Source Sans 3", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
   text-transform: uppercase;
   position: absolute;
   inset: 0;
@@ -113,7 +109,7 @@ img {
   content: "in";
   font-weight: 700;
   font-size: 11px;
-  font-family: "Montserrat", "Source Sans 3", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
   text-transform: uppercase;
   position: absolute;
   inset: 0;
@@ -126,7 +122,7 @@ img {
   content: "id";
   font-weight: 700;
   font-size: 11px;
-  font-family: "Montserrat", "Source Sans 3", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
   text-transform: uppercase;
   position: absolute;
   inset: 0;
@@ -140,7 +136,7 @@ img {
 }
 
 .cv-sidebar-section h2 {
-  font-family: "Montserrat", "Source Sans 3", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
   font-size: 0.95rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -202,8 +198,8 @@ img {
 }
 
 .cv-header h1 {
-  font-family: "Montserrat", "Source Sans 3", Arial, sans-serif;
-  font-size: 2.2rem;
+  font-family: "Montserrat", Arial, sans-serif;
+  font-size: 2rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   margin: 0;
@@ -229,7 +225,7 @@ img {
 }
 
 .cv-main h2 {
-  font-family: "Montserrat", "Source Sans 3", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
   font-size: 1rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
