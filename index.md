@@ -75,7 +75,7 @@ a.btn[href*="github.com"] { display: none !important; }
       <div class="cv-item">
         <div class="cv-item-heading">
           <span>Traces of Galaxy Formation Group, La Laguna, Tenerife</span>
-          <span>November 2025</span>
+          <span>11/2025</span>
         </div>
         <p>Talk on Testing Bayes-LOSVD on nucleated early-type galaxies in the Fornax cluster.</p>
       </div>
@@ -83,7 +83,7 @@ a.btn[href*="github.com"] { display: none !important; }
       <div class="cv-item">
         <div class="cv-item-heading">
           <span>Lorentz Center workshop: Galactic Centers as tracers of Galaxy Evolution, Leiden</span>
-          <span>October 2025</span>
+          <span>10/2025</span>
         </div>
         <p>Talk on An orbital decomposition of the nuclear regions in the early-type galaxy FCC047.</p>
       </div>
@@ -91,7 +91,7 @@ a.btn[href*="github.com"] { display: none !important; }
       <div class="cv-item">
         <div class="cv-item-heading">
           <span>Bridging Scales Conference, Matera</span>
-          <span>September 2025</span>
+          <span>09/2025</span>
         </div>
         <p>Flashtalk on An orbital decomposition of an unusually large nuclear star cluster.</p>
       </div>
@@ -99,15 +99,16 @@ a.btn[href*="github.com"] { display: none !important; }
       <div class="cv-item">
         <div class="cv-item-heading">
           <span>European Southern Observatory (ESO), Garching</span>
-          <span>2025, 2024</span>
+          <span>2024 and 2025</span>
         </div>
-        <p>01/2025 - 02/2025: Science internship program. 10/2024 - 11/2024: Research visit.</p>
+        <p>01/2025 - 02/2025: Science internship program.
+        10/2024 - 11/2024: Research visit.</p>
       </div>
 
       <div class="cv-item">
         <div class="cv-item-heading">
           <span>Stellar Dynamics Research Group, Vienna</span>
-          <span>May 2023</span>
+          <span>05/2023</span>
         </div>
         <p>Talk on Measuring the black hole mass of PGC1021091.</p>
       </div>
@@ -129,13 +130,15 @@ a.btn[href*="github.com"] { display: none !important; }
           <span>Department of Astrophysics, University of Vienna</span>
           <span> 2019 - 2025</span>
         </div>
-        <p>BSc and MSc degrees. Focus: Evolution and formation of galaxies, Galactic dynamics, Dynamical modelling of galaxies, SMBH mass determination. Masterthesis: Orbital decomposition of the nuclear star cluster in FCC 047. Bachelorthesis: Constraining the black hole mass of PGC1021091 with DYNAMITE. </p>
+        <p>BSc and MSc degrees. Focus: Evolution and formation of galaxies, Galactic dynamics, Dynamical modelling of galaxies, SMBH mass determination. 
+        Masterthesis: Orbital decomposition of the nuclear star cluster in FCC 047. 
+        Bachelorthesis: Constraining the black hole mass of PGC1021091 with DYNAMITE. </p>
       </div>
 
 
       <div class="cv-item">
         <div class="cv-item-heading">
-          <span>Ludwig-Maximilians-University Munich </span>
+          <span>Faculty of Economics, Ludwig-Maximilians-University, Munich </span>
           <span> 2014 - 2018</span>
         </div>
         <p>BSc Economics.</p>
