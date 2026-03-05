@@ -46,7 +46,7 @@ a.btn[href*="github.com"] { display: none !important; }
       <h2>Languages</h2>
         <p>German - Mother tongue</p>
         <p>English - Proficient (C1)</p>
-        <p>French, Spanish, Italien Basic (A2)</p>
+        <p>French, Spanish, Italien - Basic (A2)</p>
     </div>
 
   </aside>
@@ -161,12 +161,11 @@ a.btn[href*="github.com"] { display: none !important; }
           <span>Stellar Dynamics Research Group, University of Vienna</span>
           <span>03/2023 - 06/2025</span>
         </div>
-        <p>Group leader: Prof. Dr. Glen van de Ven.</p>
       </div>
 
       <div class="cv-item">
         <div class="cv-item-heading">
-          <span>KWA (Short-term grant abroad), ESO</span>
+          <span>KWA (Short-term grant abroad)</span>
           <span>10/2024 - 11/2024</span>
         </div>
         <p>Academic work abroad, working on the Master's thesis at ESO, Garching.</p>
