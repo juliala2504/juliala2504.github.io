@@ -12,8 +12,27 @@
   --shadow: rgba(0, 0, 0, 0.08);
 }
 
+
+
 * {
   font-family: "Montserrat", Arial, sans-serif;
+}
+
+/* --- Typography: unify all text inside the CV --- */
+.cv {
+  font-family: "Montserrat", Arial, sans-serif;
+  font-size: 0.98rem;     /* overall body size */
+  line-height: 1.65;      /* overall readability */
+}
+
+.cv p,
+.cv li,
+.cv span,
+.cv a {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  font-weight: 400;
 }
 
 body {
