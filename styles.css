@@ -31,8 +31,8 @@ img {
 }
 
 .cv {
-  max-width: 1120px;
-  margin: 40px auto;
+  max-width: 1170px;
+  margin: 50px auto;
   background: var(--paper);
   display: grid;
   grid-template-columns: 320px 1fr;
