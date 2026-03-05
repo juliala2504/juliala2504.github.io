@@ -27,11 +27,11 @@ a.btn[href*="github.com"] { display: none !important; }
     <div class="cv-sidebar-section">
       <h2>Contact</h2>
       <ul class="contact-list">
-        <li><span>Email</span><a href="mailto:lamprecht@sci.muni.cz">lamprecht@sci.muni.cz</a></li>
+        <li><span>Mail</span><a href="mailto:lamprecht@sci.muni.cz">lamprecht@sci.muni.cz</a></li>
         <li><span>GitHub</span><a href="https://github.com/juliala2504">juliala2504</a></li>
-        <li><span>LinkedIn</span><a href="https://www.linkedin.com/in/julia-lamprecht-49bb343b2">julia-lamprecht-49bb343b2</a></li>
-        <li><span>ORCID</span><a href="https://orcid.org/0009-0000-2790-9781">0009-0000-2790-9781</a></li>
-        <li><span>Location</span>Brno, Czech Republic</li>
+        <li><span>LinkedIn</span><a href="https://www.linkedin.com/in/julia-lamprecht-49bb343b2">Julia Lamprecht</a></li>
+        <li><span>ORCID ID</span><a href="https://orcid.org/0009-0000-2790-9781">0009-0000-2790-9781</a></li>
+        <li><span>Location</span>Vienna, Austria</li>
       </ul>
     </div>
 
@@ -49,13 +49,6 @@ a.btn[href*="github.com"] { display: none !important; }
         <p>French, Spanish, Italien Basic (A2)</p>
     </div>
 
-    <div class="cv-sidebar-section">
-      <h2>Interests</h2>
-        <p>The climate and biodiversity crisis </p>
-        <p>(Thru-) Hiking, Running, Climbing </p>
-        <p>Enjoying the beauty of nature </p>
-        <p>Foodsaving and -sharing </p>
-    </div>
   </aside>
 
   <main class="cv-main">
@@ -71,51 +64,36 @@ a.btn[href*="github.com"] { display: none !important; }
           <span>Masaryk University, Brno</span>
           <span>10/2025 - now</span>
         </div>
-        <p>PhD Student. Title: Bridging Dynamics and Stellar Populations: Unraveling Nuclear Star Cluster Formation.</p>
+        <p>PhD Student: Bridging Dynamics and Stellar Populations: Unraveling Nuclear Star Cluster Formation.</p>
       </div>
 
       <div class="cv-item">
         <div class="cv-item-heading">
           <span>University of Vienna, Department of Astrophysics</span>
-          <span>08/2023 - 07/2025</span>
+          <span> 2019 - 2025</span>
         </div>
-        <p>MSc Astronomy. Focus: Evolution and formation of galaxies, Galactic dynamics, Dynamical modeling of galaxies, SMBH mass determination. Thesis: Orbital decomposition of the nuclear star cluster in FCC 047.</p>
+        <p>BSc and MSc degrees. Focus: Evolution and formation of galaxies, Galactic dynamics, Dynamical modelling of galaxies, SMBH mass determination. Masterthesis: Orbital decomposition of the nuclear star cluster in FCC 047. Bachelorthesis: Constraining the black hole mass of PGC1021091 with DYNAMITE. </p>
       </div>
+
 
       <div class="cv-item">
         <div class="cv-item-heading">
-          <span>University of Vienna, Department of Astrophysics</span>
-          <span>10/2019 - 08/2023</span>
-        </div>
-        <p>BSc Astronomy. Thesis: Constraining the black hole mass of PGC1021091 with DYNAMITE.</p>
-      </div>
-
-      <div class="cv-item">
-        <div class="cv-item-heading">
-          <span>Universite Toulouse 1 Capitole, School of Economics</span>
-          <span>08/2016 - 01/2017</span>
+          <span>Ludwig-Maximilians-Universitat Munich </span>
+          <span> 2014 - 2018</span>
         </div>
         <p>BSc Economics.</p>
-      </div>
-
-      <div class="cv-item">
-        <div class="cv-item-heading">
-          <span>Ludwig-Maximilians-Universitat Munich</span>
-          <span>10/2014 - 04/2018</span>
-        </div>
-        <p>BSc Economics.</p>
+        <p>Semester abroad at Universite Toulouse 1 Capitole, School of Economics (2016-2017). </p>
       </div>
     </section>
 
     <section>
-      <h2>Research Focus</h2>
+      <h2>I care about ... </h2>
       <ul class="compact-list">
-        <li>Dynamics of early-type galaxies</li>
-        <li>Schwarzschild dynamical modelling (DYNAMITE)</li>
-        <li>Stellar kinematics (Bayes-LOSVD, pPXF)</li>
-        <li>Measuring the mass of supermassive black holes (SMBHs)</li>
-        <li>Nuclear star clusters (NSCs) and their formation</li>
-        <li>Spectroscopy (MUSE, SINFONI, NIFS), HST photometry</li>
+        <li>* The dynamics of early-type galaxies in order to constrain their formation and evolutionary history. Of particular interest are nucleated galaxies, as nuclear star clusters preserve information about their formation pathways imprinted into their stellar populations and dynamical structure </li>
+        <li>* Using Schwarzschild orbit-superposition modelling (DYNAMITE), I build dynamical models of galaxies by optimizing large orbit libraries to reproduce integral-field spectroscopic and imaging observations (MUSE, SINFONI, NIFS, HST) </li>
+        <li>* Extract stellar kinematics from integrated galaxy spectra using the Bayes-LOSVD framework, modelling the broadening and shifts of absorption-line features through Bayesian inference and Markov Chain Monte Carlo (MCMC) sampling within a probabilistic machine learning framework </li>
+        <li>* Black hole demographics: Measuring the mass of BHs (SMBHs, IMBHs) to investigate co-existence and co-evolution of the central black hole and it's host galaxy </li>
+        <li>*Data Science, scientific Computing und statistical Modeling</li>
       </ul>
     </section>
 
@@ -161,65 +139,8 @@ a.btn[href*="github.com"] { display: none !important; }
         <p>Talk on Measuring the black hole mass of PGC1021091.</p>
       </div>
 
-      <div class="cv-item">
-        <div class="cv-item-heading">
-          <span>WST Symposium, Vienna</span>
-          <span>May 2023</span>
-        </div>
-        <p>Student support in Local Organizing Committee.</p>
-      </div>
     </section>
 
-    <section>
-      <h2>Work Experience</h2>
-      <div class="cv-item">
-        <div class="cv-item-heading">
-          <span>NGO Light for the World, Vienna</span>
-          <span>02/2023 - 06/2025</span>
-        </div>
-        <p>Production Assistant. Focus: Direct Mailings and Committed Givers.</p>
-      </div>
-
-      <div class="cv-item">
-        <div class="cv-item-heading">
-          <span>Cafe Morgenstern (Vienna) and Elektro Gonner (Vienna)</span>
-          <span>10/2019 - 08/2022</span>
-        </div>
-        <p>Service and Bar.</p>
-      </div>
-
-      <div class="cv-item">
-        <div class="cv-item-heading">
-          <span>Rodl and Partner GmbH Wirtschaftsprufungsgesellschaft</span>
-          <span>01/2019 - 03/2019</span>
-        </div>
-        <p>Internship. International Tax Consulting, M and A Tax.</p>
-      </div>
-
-      <div class="cv-item">
-        <div class="cv-item-heading">
-          <span>Caceis Bank S.A. Investor Services</span>
-          <span>09/2018 - 12/2018</span>
-        </div>
-        <p>Working Student. Business Implementation Support.</p>
-      </div>
-
-      <div class="cv-item">
-        <div class="cv-item-heading">
-          <span>Deloitte GmbH Wirtschaftsprufungsgesellschaft</span>
-          <span>04/2018 - 07/2018</span>
-        </div>
-        <p>Internship. Risk Advisory, Regulatory Risk Consulting.</p>
-      </div>
-
-      <div class="cv-item">
-        <div class="cv-item-heading">
-          <span>KPMG AG Wirtschaftsprufungsgesellschaft</span>
-          <span>02/2017 - 12/2017</span>
-        </div>
-        <p>Internships and Working Student. Financial Services, Compliance Consulting.</p>
-      </div>
-    </section>
 
     <section>
       <h2>Extracurricular Activities and Stipends</h2>
@@ -244,7 +165,7 @@ a.btn[href*="github.com"] { display: none !important; }
           <span>KWA (Short-term grant abroad), ESO</span>
           <span>10/2024 - 11/2024</span>
         </div>
-        <p>Academic work abroad, working on the Master's thesis at ESO.</p>
+        <p>Academic work abroad, working on the Master's thesis at ESO, Garching.</p>
       </div>
 
       <div class="cv-item">
@@ -252,7 +173,7 @@ a.btn[href*="github.com"] { display: none !important; }
           <span>WST Symposium, Vienna</span>
           <span>05/2023</span>
         </div>
-        <p>Student support at the Local Organizing Committee.</p>
+        <p>Student support, Local Organizing Committee.</p>
       </div>
 
       <div class="cv-item">
