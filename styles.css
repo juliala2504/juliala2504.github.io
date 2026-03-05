@@ -160,7 +160,7 @@ img {
 
 .cv-sidebar-section h2 {
   font-family: "Montserrat", Arial, sans-serif;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   margin-bottom: 12px;
@@ -172,7 +172,7 @@ img {
   content: "";
   display: block;
   height: 2px;
-  width: 55px;
+  width: 60px;
   background: rgba(255, 255, 255, 0.4);
   margin-top: 8px;
 }
